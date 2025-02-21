@@ -16,3 +16,5 @@ A fun number guessing game built in **C!** The program generates a random number
 
 ## 💡 Want More Cool C Projects?  
 Follow me on **GitHub** and drop a ⭐ if you like this! 🚀  
+## 🖼️ Screenshot
+![Game Screenshot](screenshot.png)
